@@ -4,7 +4,13 @@ This is a project to get you started making React Electron apps with as few tool
 
 It uses Electron, Electron Forge, React, ReactDOM, and esbuild - and that's it!
 
-After cloning and npm installing, you will need to run `npx electron-forge import` to set up electron forge on your machine. Then you should be good to go!
+## How to get this starter:
+
+git clone https://github.com/Elliotclyde/lightweight-react-electron-starter.git
+cd lightweight-react-electron-starter
+npm install
+npx electron-forge import
+npm run start
 
 ## I want to know more!
 
