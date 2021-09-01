@@ -6,11 +6,11 @@ It uses Electron, Electron Forge, React, ReactDOM, and esbuild - and that's it!
 
 ## How to get this starter:
 
-git clone https://github.com/Elliotclyde/lightweight-react-electron-starter.git
-cd lightweight-react-electron-starter
-npm install
-npx electron-forge import
-npm run start
+- git clone https://github.com/Elliotclyde/lightweight-react-electron-starter.git
+- cd lightweight-react-electron-starter
+- npm install
+- npx electron-forge import
+- npm run start
 
 ## I want to know more!
 
