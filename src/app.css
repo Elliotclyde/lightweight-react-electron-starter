@@ -1,0 +1,9 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.app-wrapper {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+}
